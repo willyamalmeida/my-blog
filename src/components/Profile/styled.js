@@ -8,7 +8,7 @@ export const ProfileWrapper = styled.section`
 `
 
 export const ProfileLink = styled(Link)`
-    color: #889a6;
+    color: #8899a6;
     text-decoration: none;
     transition: color 0.5s;
 
